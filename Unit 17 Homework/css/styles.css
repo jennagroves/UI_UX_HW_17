@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Quicksand:wght@400;500;600&display=swap');
+
+body {
+    background-color: #E2E2E2;
+    margin: 0;
+    font-family: 'Quicksand';
+}
+.header-images {
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+}
+.icon {
+    height: 35px;
+}
+.navbar {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline-block;
+    margin-inline: 45px;
+}
+.New-Arrivals {
+    text-align: center;
+    margin-top: 50px;
+}
+.hero-image {
+    width: 800px;
+}
+.Shop-By-Category {
+    text-align: center;
+    margin-top: 50px;
+}
+.category-cards {
+    display: inline-block;
+}
+.home-decor-image {
+    height: 300px;
+}
+.furniture-image {
+    height: 300px;
+}
+.vintage-clothing-image {
+    height: 300px;
+}
+.The-Revival-Story {
+    text-align: center;
+    margin-top: 50px;
+}
+.owner-image {
+    height: 400px;
+}
+.Visit {
+    text-align: center;
+    margin-top: 50px;
+}
+.revival-inside-image {
+    height: 350px;
+}
+.footer {
+    text-align: center;
+    margin-top: 50px;
+}
