@@ -35,7 +35,7 @@ li {
     margin-top: 50px;
 }
 .category-cards {
-    display: inline-block;
+    display: block;
 }
 .home-decor-image {
     height: 300px;
